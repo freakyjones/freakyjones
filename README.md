@@ -1,74 +1,73 @@
 👋 Hi, I’m Abhilash (aka Freaky Jones)
 
-🚀 Frontend Developer | AI-Augmented & Cloud-Ready Engineer
+🚀 Frontend Developer | AI-Augmented Engineer | Cloud-Ready
 💡 Ex-Miho (9 months) | Ex-Gloqal (1 year)
 
-I build modern, scalable, and AI-integrated applications using React, Tailwind, and JavaScript. I thrive on combining clean design, reusable components, and AI-driven workflows to deliver user-friendly, cloud-deployable solutions.
+I specialize in building scalable, responsive, and AI-powered web applications with React, Tailwind, and modern JavaScript. My focus is on creating clean UIs, cloud-deployable solutions, and leveraging AI tools like Gemini Code Assist & ChatGPT to accelerate development and maintain high-quality code.
 
 💼 Professional Experience
 
 Frontend Engineer @ Miho (Jul 2022 – Mar 2023, Ahmedabad)
 
-Engineered reusable component libraries and scalable UI systems with React + Tailwind, reducing redundancy across projects.
+Engineered reusable React component libraries for faster feature delivery.
 
-Designed and implemented frontend architecture patterns ensuring consistent and pixel-perfect UI delivery.
+Architected scalable frontend patterns ensuring consistent design and UX.
 
-Integrated third-party services (subscription management, 2FA authentication) securely into production apps.
+Integrated subscription management and 2FA authentication with secure flows.
 
-Refactored legacy code and debugged complex UI flows, reducing technical debt and improving maintainability.
+Refactored codebase and debugged complex UI issues, reducing technical debt.
 
-Introduced libraries for testing, code readability, and performance optimization, enabling smoother developer collaboration.
+Added libraries for testing, performance optimization, and maintainability.
 
 Frontend Developer @ Gloqal (Oct 2020 – Oct 2021, San Francisco – Remote)
 
-Built and deployed responsive, mobile-first user interfaces optimized for cross-device performance.
+Delivered responsive, mobile-first UIs with React, HTML, and CSS.
 
-Developed frontend APIs and service integrations, improving data flow between client and server.
+Built frontend APIs and service integrations for smoother data handling.
 
-Designed multiple iterations of dashboards and signup flows, enhancing user onboarding experience.
+Designed dashboards and signup flows to optimize user onboarding.
 
-Applied performance optimization techniques (lazy loading, CSS optimizations) to improve load times.
+Applied performance improvements (lazy loading, CSS optimization).
 
-Collaborated closely with design teams to deliver UI/UX aligned with business goals.
+Partnered with design teams to ship business-aligned UI/UX features.
 
-🛠 Skills
+🛠 Skills & Tech Stack
 
-Languages & Frameworks: HTML, CSS, JavaScript (ES6+), React, Redux, Tailwind, SCSS
-Backend & Databases: Node.js, Firebase, MongoDB
+Frontend: React, Redux, Tailwind, SCSS, JavaScript (ES6+), HTML5, CSS3
+Backend & DB: Node.js, Express, Firebase, MongoDB
 Cloud & Deployment: Netlify, Vercel, GitHub Actions
-AI Tools: Gemini Code Assist (VS Code), OpenAI APIs (ChatGPT/GPT-4o)
+AI Integration: Gemini Code Assist, ChatGPT APIs, AI workflow automation
 
 🌟 Featured Projects
 🔹 AI-Enhanced Weather App
+ (React, Tailwind, AI APIs)
 
-React + Tailwind + OpenWeather + AI twist
+Live weather + AI outfit & activity recommendations.
 
-Provides outfit & activity suggestions using AI APIs.
+Integrated OpenWeather API + AI agent.
 
-Deployed on Netlify + serverless functions.
+Deployed on Netlify with serverless functions.
 
 🔹 Super Trivia
+ (React, Redux, React Router)
 
-React + Redux + React Router
+Fun trivia app consuming superhero APIs.
 
-Consumed public APIs to display superhero trivia.
-
-Optimized bundle size & responsive layouts.
+Optimized bundle size & implemented responsive layouts.
 
 🔹 Portfolio Website
+ (React, Redux-Thunk, Framer Motion)
 
-React + Redux-Thunk + Framer Motion
+Interactive personal portfolio with smooth animations.
 
-Designed & built from scratch with modern animations.
+Built UI/UX from scratch with motion design.
 
-Deployed live: Portfolio Demo
-
-📊 GitHub Activity
-
+📊 GitHub Stats
 
 
 
-🌍 Let’s Connect
+
+🌍 Connect with Me
 
 💼 LinkedIn
 
