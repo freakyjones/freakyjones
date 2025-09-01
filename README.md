@@ -30,3 +30,50 @@ Designed multiple iterations of dashboards and signup flows, enhancing user onbo
 Applied performance optimization techniques (lazy loading, CSS optimizations) to improve load times.
 
 Collaborated closely with design teams to deliver UI/UX aligned with business goals.
+
+🛠 Skills
+
+Languages & Frameworks: HTML, CSS, JavaScript (ES6+), React, Redux, Tailwind, SCSS
+Backend & Databases: Node.js, Firebase, MongoDB
+Cloud & Deployment: Netlify, Vercel, GitHub Actions
+AI Tools: Gemini Code Assist (VS Code), OpenAI APIs (ChatGPT/GPT-4o)
+
+🌟 Featured Projects
+🔹 AI-Enhanced Weather App
+
+React + Tailwind + OpenWeather + AI twist
+
+Provides outfit & activity suggestions using AI APIs.
+
+Deployed on Netlify + serverless functions.
+
+🔹 Super Trivia
+
+React + Redux + React Router
+
+Consumed public APIs to display superhero trivia.
+
+Optimized bundle size & responsive layouts.
+
+🔹 Portfolio Website
+
+React + Redux-Thunk + Framer Motion
+
+Designed & built from scratch with modern animations.
+
+Deployed live: Portfolio Demo
+
+📊 GitHub Activity
+
+
+
+
+🌍 Let’s Connect
+
+💼 LinkedIn
+
+🌐 Portfolio
+
+📧 Email
+
+⚡ “Bridging frontend engineering with AI & cloud to build the next generation of digital experiences.”
